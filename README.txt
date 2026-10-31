@@ -21,4 +21,4 @@ The app downloads adjusted ETF prices from Yahoo Finance and the daily 3-month U
 
 AI USE DISCLOSURE
 
-AI was used to catch coding errors and ensure clean README formatting.
+AI was used to catch coding errors and ensure clean formatting.
